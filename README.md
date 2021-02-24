@@ -21,4 +21,4 @@ Here is the place where this repo (which you are reading this readme) comes into
 ### [Video tutorial](http://www.youtube.com/watch?v=SiP51auEfuo)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CW4RR10R/LemonJamsBot-Heroku/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kermitofx/LemonJamsBot-Heroku/tree/main)
